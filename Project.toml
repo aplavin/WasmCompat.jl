@@ -21,7 +21,6 @@ WasmCompatArgToolsExt = ["WasmCodegen", "ArgTools"]
 WasmCompatArtifactsExt = ["WasmCodegen", "Artifacts"]
 WasmCompatBaseExt = "WasmCodegen"
 WasmCompatLibGit2Ext = ["WasmCodegen", "LibGit2_wasm_jll", "LibGit2"]
-WasmCompatLoggingExt = ["WasmCodegen", "Logging"]
 WasmCompatMsgPackExt = ["WasmCodegen", "MsgPack"]
 WasmCompatPCRE2Ext = ["WasmCodegen", "PCRE2_wasm_jll"]
 WasmCompatSIMDExt = ["WasmCodegen", "SIMD"]
